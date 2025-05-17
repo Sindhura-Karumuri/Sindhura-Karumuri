@@ -16,9 +16,12 @@ I'm a passionate **web developer** and **technology enthusiast**, currently focu
 
 Here are a few projects I've worked on:
 
+- **[Sudoku Solver](https://github.com/Sindhura-Karumuri/Sudoku-Solver)** — A Java-based console application that solves 9x9 Sudoku puzzles using a backtracking algorithm. It efficiently checks for valid number placement and provides a complete solution for any valid input puzzle.
+
+- **[Digital Book Store](https://github.com/Sindhura-Karumuri/DigitalBookStore)** —  An online bookstore interface where users can browse, search, and view details about books. Built using HTML, CSS, and JavaScript with a clean UI and responsive design.
+
 - **[Realtime Currency Converter](https://github.com/Sindhura-Karumuri/realtime-currency-converter)** — A web app to convert currencies using live exchange rates.
 
-- **[DigitalBookStore](https://github.com/Sindhura-Karumuri/DigitalBookStore)** —  An online bookstore interface where users can browse, search, and view details about books. Built using HTML, CSS, and JavaScript with a clean UI and responsive design.
 
 ---
 
