@@ -40,6 +40,13 @@ Here are a few projects I've worked on:
 - Email: *(karu07sind@gmail.com)*
 
 ---
+### ✨ Coding Profiles
+
+- 🧠 **LeetCode**: [leetcode.com/Sindhura_24](https://leetcode.com/u/Sindhura_24/)  
+- 🏆 **HackerRank**: [hackerrank.com/@karu07sind](https://www.hackerrank.com/profile/karu07sind)  
+- ⚔️ **Codeforces**: [codeforces.com/profile/SindhuraKarumuri](https://codeforces.com/profile/SindhuraKarumuri)  
+- 💡 **GeeksforGeeks**: [geeksforgeeks.org/karu07ovlv](https://www.geeksforgeeks.org/user/karu07ovlv/)
+
 
 ### 💡 Fun Fact
 
