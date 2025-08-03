@@ -15,7 +15,6 @@
   <a href="https://linkedin.com/in/karumuri-sindhura-b099002a2/">
     <img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sindhura-Karumuri&style=flat&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
