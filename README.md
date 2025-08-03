@@ -73,19 +73,26 @@
 
 ---
 
+---
+
 ### 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/Sindhura_24/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://leetcode.com/u/Sindhura_24/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/profile/karu07sind" target="_blank" rel="noopener">
+  <a href="https://www.hackerrank.com/profile/karu07sind" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://codeforces.com/profile/SindhuraKarumuri" target="_blank" rel="noopener">
+  <a href="https://codeforces.com/profile/SindhuraKarumuri" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/karu07ovlv/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8D40?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <a href="https://www.geeksforgeeks.org/user/karu07ovlv/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.codechef.com/users/pvp23cse0565" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
+
+---
