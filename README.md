@@ -17,7 +17,7 @@
   <a href="mailto:karu07sind@gmail.com">
     <img src="https://img.shields.io/badge/Email-karu07sind@gmail.com-red?logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/karumuri-sindhura-b099002a2/">
+  <a href="https://www.linkedin.com/in/karumuri-sindhura/">
     <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin" />
   </a>
 </p>
